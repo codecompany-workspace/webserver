@@ -1,0 +1,12 @@
+#cookie_message {
+  display: none;
+	background-color: lightblue;
+  padding-top: 10px;
+}
+#cookie_message span {
+  margin-left: 0.5%;
+  border: 1px solid lightblue;
+}
+#cookie_message span:hover, #cookie_message span:active {
+  border-color: darkgrey;
+}
