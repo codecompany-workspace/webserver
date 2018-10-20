@@ -1,1 +1,15 @@
-@@import "cookie_message.css";
+@import "cookie_message.css";
+* {
+  margin: 0;
+}
+#banner {
+  height: 50px;
+  background: lightgrey;
+}
+#navigation {
+  height: 60px;
+  background: darkgrey;
+}
+.button {
+  display: inline-block;
+}
