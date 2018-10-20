@@ -7,6 +7,5 @@ $(document).ready(function() {
 	}
 	$('#cookie_messageClose').click(function() {
 		$('#cookie_message').hide();
-		// TODO change the ID, when icon is added to the message
 	});
 });
